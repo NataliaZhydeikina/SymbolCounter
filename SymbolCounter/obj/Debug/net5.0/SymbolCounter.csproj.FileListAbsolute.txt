@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\bin\Debug\net5.0\SymbolCounter.exe
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\bin\Debug\net5.0\SymbolCounter.deps.json
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\bin\Debug\net5.0\SymbolCounter.runtimeconfig.json
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\bin\Debug\net5.0\SymbolCounter.runtimeconfig.dev.json
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\bin\Debug\net5.0\SymbolCounter.dll
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\bin\Debug\net5.0\ref\SymbolCounter.dll
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\bin\Debug\net5.0\SymbolCounter.pdb
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\obj\Debug\net5.0\SymbolCounter.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\obj\Debug\net5.0\SymbolCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\obj\Debug\net5.0\SymbolCounter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\obj\Debug\net5.0\SymbolCounter.AssemblyInfo.cs
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\obj\Debug\net5.0\SymbolCounter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\obj\Debug\net5.0\SymbolCounter.dll
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\obj\Debug\net5.0\ref\SymbolCounter.dll
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\obj\Debug\net5.0\SymbolCounter.pdb
+C:\Users\user\source\repos\SymbolCounter\SymbolCounter\obj\Debug\net5.0\SymbolCounter.genruntimeconfig.cache
